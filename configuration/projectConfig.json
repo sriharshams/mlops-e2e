@@ -4,7 +4,7 @@
     "git": {
         "githubConnectionArn": "arn:aws:codestar-connections:us-west-2:457927431838:connection/7b62f4e5-ea0d-47f6-9d7d-ac782649a5e1",
         "githubRepoOwner": "sriharshams",
-        "githubRepoName": "sriharshams/mlops-e2e"
+        "githubRepoName": "mlops-e2e"
     },
     "modelEndpointExportNamePrefix": "ModelHostingEndpoint",
     "ipPermitList": [
